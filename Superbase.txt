@@ -1,0 +1,8 @@
+operation.hrf
+
+Database Password: e58faeIw2YCnlnR2
+
+anon
+public:
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImtiY296d3ptd3Fnb3hqeGV5YXZxIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzk3Nzg0NDAsImV4cCI6MjA5NTM1NDQ0MH0.hYNznIlLmMZY_xQM43rv5I-d0UG1iOtuGCTWv6-sXfA
+
