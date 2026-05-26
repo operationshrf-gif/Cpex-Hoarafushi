@@ -1,0 +1,14 @@
+{
+  "chat.tools.terminal.autoApprove": {
+    "npm install": true,
+    "npx tsc": true,
+    "npx http-server": true,
+    "git remote": true,
+    "git ls-remote": true,
+    "gh": true,
+    "/^powershell -NoProfile -Command \"try \\{ \\$u='https://api\\.github\\.com/repos/ibbe12/New-folder1/actions/runs/26387960998/jobs'; \\$c=Invoke-WebRequest \\$u -UseBasicParsing; \\$c\\.Content \\| Out-File -FilePath c:\\\\temp\\\\gh_jobs\\.json -Encoding utf8 \\} catch \\{ Write-Error \\$_ \\}\"$/": {
+      "approve": true,
+      "matchCommandLine": true
+    }
+  }
+}
