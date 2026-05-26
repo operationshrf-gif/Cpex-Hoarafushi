@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="100" viewBox="0 0 360 100" role="img" aria-label="CPEX logo">
+  <defs>
+    <style>
+      .hex { fill: #ffd400; }
+      .letter { font-family: 'Elms Sans', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; font-weight: 800; font-size: 44px; fill: #000000; }
+    </style>
+  </defs>
+  <!-- Four rounded shapes to mimic the attached logo -->
+  <rect x="8" y="8" width="80" height="80" rx="18" class="hex" />
+  <rect x="96" y="8" width="80" height="80" rx="18" class="hex" />
+  <rect x="184" y="8" width="80" height="80" rx="18" class="hex" />
+  <rect x="272" y="8" width="80" height="80" rx="18" class="hex" />
+
+  <!-- Letters -->
+  <text x="48" y="62" text-anchor="middle" class="letter">C</text>
+  <text x="136" y="62" text-anchor="middle" class="letter">P</text>
+  <text x="224" y="62" text-anchor="middle" class="letter">E</text>
+  <text x="312" y="62" text-anchor="middle" class="letter">X</text>
+</svg>
